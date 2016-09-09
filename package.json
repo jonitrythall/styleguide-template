@@ -1,0 +1,29 @@
+{
+  "name": "styleguide-template",
+  "version": "1.0.0",
+  "description": "Lil style guide template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonitrythall/styleguide-template.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "style",
+    "guide",
+    "template"
+  ],
+  "author": "Joni Trythall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonitrythall/styleguide-template/issues"
+  },
+  "homepage": "https://github.com/jonitrythall/styleguide-template#readme",
+  "dependencies": {
+    "node-sass": "^3.9.3"
+  }
+}
